@@ -1,26 +1,44 @@
-![GitHub contributors](https://img.shields.io/github/contributors/Simplon-hdf/structure-projet?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/Simplon-hdf/structure-projet?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/Simplon-hdf/structure-projet?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/Simplon-hdf/structure-projet?style=for-the-badge)
-![GitHub license](https://img.shields.io/github/license/Simplon-hdf/structure-projet?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/delannoykurt/bank-root?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/delannoykurt/bank-root?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/delannoykurt/bank-root?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/delannoykurt/bank-root?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/delannoykurt/bank-root?style=for-the-badge)
 
-<h1 align="center">Project name</h1>
+<h1 align="center"> 🏦 Bank Root</h1>
 
-<div align="center">
+<br>
 
-## Project Description
+## Contexte du projet
 
-Ce dépôt est une structure permettant de démarrer un projet professionnel ou personnel. Ceci vous fera gagner un temps précieux et maximiser votre temps de travail.
+Vous êtes développeur junior au sein du service informatique d’une enseigne bancaire nommée Bank Root.
 
-</div>
+Le coeur de cible de cette banque était jusqu’à maintenant de proposer des services bancaires sur site.
 
-## About The Project
+Elle souhaite maintenant diversifier sa clientèle, entrer de plein pied dans l’ère du numérique ( kek …) et (ENFIN) proposer à ses usagers un service bancaire en ligne renouvelé afin d’attirer de nouveaux utilisateurs et moderniser son offre.
+
+La mission de votre équipe est de concevoir une application qui permet à votre employeur la gestion de ses comptes bancaires en ligne dans un premier temps et dans un second temps de proposer des services de gestion bancaire à vos clients (dépôts, virements, etc …).
+
+​
+
+​
+
+Une API fonctionnelle doit être fournie avec la possibilité que :
+
+- A chaque client correspond un compte avec un numéro unique
+- Chaque compte peut être débiteur ou créditeur
+- Chaque compte peut faire des demandes de retraits ou dépôts
+- Des transactions peuvent être effectuer entre tous les comptes, les montants doivent être correctement réaffectés.
+- Chaque compte doit disposer d'un listing avec toutes les transactions
+
+<br>
 
 ### Built With
 
-- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-- ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 <details>
 <summary><h2>Checklist</h2></summary>
@@ -82,6 +100,9 @@ Ce dépôt est une structure permettant de démarrer un projet professionnel ou 
 </details>
 
 ## Author
+
+- [:bust_in_silhouette: @Kurt](https://github.com/delannoykurt)
+- [:bust_in_silhouette: @Josué](https://github.com/Rowada)
 
 ## License
 
