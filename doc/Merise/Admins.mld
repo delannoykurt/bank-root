@@ -1,0 +1,15 @@
+%%mocodo
+:
+Client: UUID, lastname, firstname, mail, age
+:
+Demande: #UUID->Transaction->UUID, _#UUID.1->Compte->UUID
+:
+Transaction: UUID, typeTransaction, cible, dateCreation, #UUID.1->Admin->UUID
+:::
+
+
+:::
+Compte: UUID, typeCompte, soldeCompte, dateCreation, moyenPaiement, #UUID.1->Client->UUID, #UUID.2->Admin->UUID
+:::
+Admin: UUID, lastname, firstname, mail
+:

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="439" height="304" viewBox="0 0 439 304" xmlns="http://www.w3.org/2000/svg">
+<rect id="frame" x="0" y="0" width="439" height="304" fill="#f7f7f7" stroke="none" stroke-width="0"/>
+
+<!-- Association Demande -->
+<g class="page_0_WJxoTTDJ diagram_page" visibility="visible">
+	<line x1="277" y1="68" x2="151" y2="68" stroke="#8073ac" stroke-width="2"/>
+	<text x="196" y="85" fill="#b35806" font-family="Verdana" font-size="12">0,N</text>
+	<line x1="151" y1="211" x2="151" y2="68" stroke="#8073ac" stroke-width="2"/>
+	<text x="156" y="144" fill="#b35806" font-family="Verdana" font-size="12">1,N</text>
+	<g>
+		<path d="M174 43 a14 14 90 0 1 14 14 V68 h-74 V57 a14 14 90 0 1 14 -14" fill="#b2abd2" stroke="#b2abd2" stroke-width="0"/>
+		<path d="M188 68 v11 a14 14 90 0 1 -14 14 H128 a14 14 90 0 1 -14 -14 V68 H74" fill="#d8daeb" stroke="#d8daeb" stroke-width="0"/>
+		<rect x="114" y="43" width="74" height="50" fill="none" rx="14" stroke="#8073ac" stroke-width="2"/>
+		<line x1="114" y1="68" x2="188" y2="68" stroke="#8073ac" stroke-width="1"/>
+		<text x="122" y="60.75" fill="#000" font-family="Verdana" font-size="12">Demande</text>
+	</g>
+</g>
+
+<!-- Association Autorise -->
+<g class="page_0_WJxoTTDJ diagram_page" visibility="visible">
+	<line x1="396" y1="211" x2="396" y2="68" stroke="#8073ac" stroke-width="2"/>
+	<text x="401" y="152" fill="#b35806" font-family="Verdana" font-size="12">1,N</text>
+	<line x1="277" y1="68" x2="396" y2="68" stroke="#8073ac" stroke-width="2"/>
+	<text x="336" y="85" fill="#b35806" font-family="Verdana" font-size="12">1,1</text>
+	<g>
+		<path d="M415 43 a14 14 90 0 1 14 14 V68 h-66 V57 a14 14 90 0 1 14 -14" fill="#b2abd2" stroke="#b2abd2" stroke-width="0"/>
+		<path d="M429 68 v11 a14 14 90 0 1 -14 14 H377 a14 14 90 0 1 -14 -14 V68 H66" fill="#d8daeb" stroke="#d8daeb" stroke-width="0"/>
+		<rect x="363" y="43" width="66" height="50" fill="none" rx="14" stroke="#8073ac" stroke-width="2"/>
+		<line x1="363" y1="68" x2="429" y2="68" stroke="#8073ac" stroke-width="1"/>
+		<text x="371" y="60.75" fill="#000" font-family="Verdana" font-size="12">Autorise</text>
+	</g>
+</g>
+
+<!-- Association Gère -->
+<g class="page_0_WJxoTTDJ diagram_page" visibility="visible">
+	<line x1="151" y1="211" x2="43" y2="211" stroke="#8073ac" stroke-width="2"/>
+	<text x="71" y="228" fill="#b35806" font-family="Verdana" font-size="12">1,1</text>
+	<line x1="43" y1="68" x2="43" y2="211" stroke="#8073ac" stroke-width="2"/>
+	<text x="48" y="144" fill="#b35806" font-family="Verdana" font-size="12">1,N</text>
+	<g>
+		<path d="M51 186 a14 14 90 0 1 14 14 V211 h-44 V200 a14 14 90 0 1 14 -14" fill="#b2abd2" stroke="#b2abd2" stroke-width="0"/>
+		<path d="M65 211 v11 a14 14 90 0 1 -14 14 H35 a14 14 90 0 1 -14 -14 V211 H44" fill="#d8daeb" stroke="#d8daeb" stroke-width="0"/>
+		<rect x="21" y="186" width="44" height="50" fill="none" rx="14" stroke="#8073ac" stroke-width="2"/>
+		<line x1="21" y1="211" x2="65" y2="211" stroke="#8073ac" stroke-width="1"/>
+		<text x="28" y="203.75" fill="#000" font-family="Verdana" font-size="12">Gère</text>
+	</g>
+</g>
+
+<!-- Association Administre -->
+<g class="page_0_WJxoTTDJ diagram_page" visibility="visible">
+	<line x1="396" y1="211" x2="277" y2="211" stroke="#8073ac" stroke-width="2"/>
+	<text x="335" y="228" fill="#b35806" font-family="Verdana" font-size="12">1,N</text>
+	<line x1="151" y1="211" x2="277" y2="211" stroke="#8073ac" stroke-width="2"/>
+	<text x="210" y="228" fill="#b35806" font-family="Verdana" font-size="12">1,1</text>
+	<g>
+		<path d="M303 186 a14 14 90 0 1 14 14 V211 h-80 V200 a14 14 90 0 1 14 -14" fill="#b2abd2" stroke="#b2abd2" stroke-width="0"/>
+		<path d="M317 211 v11 a14 14 90 0 1 -14 14 H251 a14 14 90 0 1 -14 -14 V211 H80" fill="#d8daeb" stroke="#d8daeb" stroke-width="0"/>
+		<rect x="237" y="186" width="80" height="50" fill="none" rx="14" stroke="#8073ac" stroke-width="2"/>
+		<line x1="237" y1="211" x2="317" y2="211" stroke="#8073ac" stroke-width="1"/>
+		<text x="244" y="203.75" fill="#000" font-family="Verdana" font-size="12">Administre</text>
+	</g>
+</g>
+
+<!-- Entity Client -->
+<g class="page_0_WJxoTTDJ diagram_page" visibility="visible">
+	<g>
+		<rect x="9" y="9" width="68" height="25" fill="#fdb863" stroke="#fdb863" stroke-width="0" opacity="1"/>
+		<rect x="9" y="34" width="68" height="93" fill="#fee0b6" stroke="#fee0b6" stroke-width="0" opacity="1"/>
+		<rect x="9" y="9" width="68" height="118" fill="none" stroke="#e08214" stroke-width="2" opacity="1"/>
+		<line x1="9" y1="34" x2="77" y2="34" stroke="#e08214" stroke-width="1"/>
+	</g>
+	<text x="26" y="26.75" fill="#000" font-family="Verdana" font-size="12">Client</text>
+	<text x="14" y="51.8" fill="#000" font-family="Verdana" font-size="12">UUID</text>
+	<line x1="14" y1="54" x2="47" y2="54" stroke="#000" stroke-width="1"/>
+	<text x="14" y="68.8" fill="#000" font-family="Verdana" font-size="12">lastname</text>
+	<text x="14" y="85.8" fill="#000" font-family="Verdana" font-size="12">firstname</text>
+	<text x="14" y="102.8" fill="#000" font-family="Verdana" font-size="12">mail</text>
+	<text x="14" y="119.8" fill="#000" font-family="Verdana" font-size="12">age</text>
+</g>
+
+<!-- Entity Transaction -->
+<g class="page_0_WJxoTTDJ diagram_page" visibility="visible">
+	<g>
+		<rect x="223" y="17" width="108" height="25" fill="#fdb863" stroke="#fdb863" stroke-width="0" opacity="1"/>
+		<rect x="223" y="42" width="108" height="77" fill="#fee0b6" stroke="#fee0b6" stroke-width="0" opacity="1"/>
+		<rect x="223" y="17" width="108" height="102" fill="none" stroke="#e08214" stroke-width="2" opacity="1"/>
+		<line x1="223" y1="42" x2="331" y2="42" stroke="#e08214" stroke-width="1"/>
+	</g>
+	<text x="242" y="34.75" fill="#000" font-family="Verdana" font-size="12">Transaction</text>
+	<text x="228" y="59.8" fill="#000" font-family="Verdana" font-size="12">UUID</text>
+	<line x1="228" y1="62" x2="261" y2="62" stroke="#000" stroke-width="1"/>
+	<text x="228" y="76.8" fill="#000" font-family="Verdana" font-size="12">typeTransaction</text>
+	<text x="228" y="93.8" fill="#000" font-family="Verdana" font-size="12">cible</text>
+	<text x="228" y="110.8" fill="#000" font-family="Verdana" font-size="12">dateCreation</text>
+</g>
+
+<!-- Entity Compte -->
+<g class="page_0_WJxoTTDJ diagram_page" visibility="visible">
+	<g>
+		<rect x="97" y="152" width="108" height="25" fill="#fdb863" stroke="#fdb863" stroke-width="0" opacity="1"/>
+		<rect x="97" y="177" width="108" height="93" fill="#fee0b6" stroke="#fee0b6" stroke-width="0" opacity="1"/>
+		<rect x="97" y="152" width="108" height="118" fill="none" stroke="#e08214" stroke-width="2" opacity="1"/>
+		<line x1="97" y1="177" x2="205" y2="177" stroke="#e08214" stroke-width="1"/>
+	</g>
+	<text x="127" y="169.75" fill="#000" font-family="Verdana" font-size="12">Compte</text>
+	<text x="102" y="194.8" fill="#000" font-family="Verdana" font-size="12">UUID</text>
+	<line x1="102" y1="197" x2="135" y2="197" stroke="#000" stroke-width="1"/>
+	<text x="102" y="211.8" fill="#000" font-family="Verdana" font-size="12">typeCompte</text>
+	<text x="102" y="228.8" fill="#000" font-family="Verdana" font-size="12">soldeCompte</text>
+	<text x="102" y="245.8" fill="#000" font-family="Verdana" font-size="12">dateCreation</text>
+	<text x="102" y="262.8" fill="#000" font-family="Verdana" font-size="12">moyenPaiement</text>
+</g>
+
+<!-- Entity Admin -->
+<g class="page_0_WJxoTTDJ diagram_page" visibility="visible">
+	<g>
+		<rect x="362" y="160" width="68" height="25" fill="#fdb863" stroke="#fdb863" stroke-width="0" opacity="1"/>
+		<rect x="362" y="185" width="68" height="77" fill="#fee0b6" stroke="#fee0b6" stroke-width="0" opacity="1"/>
+		<rect x="362" y="160" width="68" height="102" fill="none" stroke="#e08214" stroke-width="2" opacity="1"/>
+		<line x1="362" y1="185" x2="430" y2="185" stroke="#e08214" stroke-width="1"/>
+	</g>
+	<text x="377" y="177.75" fill="#000" font-family="Verdana" font-size="12">Admin</text>
+	<text x="367" y="202.8" fill="#000" font-family="Verdana" font-size="12">UUID</text>
+	<line x1="367" y1="205" x2="400" y2="205" stroke="#000" stroke-width="1"/>
+	<text x="367" y="219.8" fill="#000" font-family="Verdana" font-size="12">lastname</text>
+	<text x="367" y="236.8" fill="#000" font-family="Verdana" font-size="12">firstname</text>
+	<text x="367" y="253.8" fill="#000" font-family="Verdana" font-size="12">mail</text>
+</g>
+</svg>
